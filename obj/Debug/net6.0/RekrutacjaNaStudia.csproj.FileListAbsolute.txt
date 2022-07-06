@@ -1,0 +1,15 @@
+C:\Users\mrkan\OneDrive\Dokumenty\#Kurs APS NET\RekrutacjaNaStudia\RekrutacjaNaStudia\bin\Debug\net6.0\RekrutacjaNaStudia.exe
+C:\Users\mrkan\OneDrive\Dokumenty\#Kurs APS NET\RekrutacjaNaStudia\RekrutacjaNaStudia\bin\Debug\net6.0\RekrutacjaNaStudia.deps.json
+C:\Users\mrkan\OneDrive\Dokumenty\#Kurs APS NET\RekrutacjaNaStudia\RekrutacjaNaStudia\bin\Debug\net6.0\RekrutacjaNaStudia.runtimeconfig.json
+C:\Users\mrkan\OneDrive\Dokumenty\#Kurs APS NET\RekrutacjaNaStudia\RekrutacjaNaStudia\bin\Debug\net6.0\RekrutacjaNaStudia.dll
+C:\Users\mrkan\OneDrive\Dokumenty\#Kurs APS NET\RekrutacjaNaStudia\RekrutacjaNaStudia\bin\Debug\net6.0\RekrutacjaNaStudia.pdb
+C:\Users\mrkan\OneDrive\Dokumenty\#Kurs APS NET\RekrutacjaNaStudia\RekrutacjaNaStudia\obj\Debug\net6.0\RekrutacjaNaStudia.csproj.AssemblyReference.cache
+C:\Users\mrkan\OneDrive\Dokumenty\#Kurs APS NET\RekrutacjaNaStudia\RekrutacjaNaStudia\obj\Debug\net6.0\RekrutacjaNaStudia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mrkan\OneDrive\Dokumenty\#Kurs APS NET\RekrutacjaNaStudia\RekrutacjaNaStudia\obj\Debug\net6.0\RekrutacjaNaStudia.AssemblyInfoInputs.cache
+C:\Users\mrkan\OneDrive\Dokumenty\#Kurs APS NET\RekrutacjaNaStudia\RekrutacjaNaStudia\obj\Debug\net6.0\RekrutacjaNaStudia.AssemblyInfo.cs
+C:\Users\mrkan\OneDrive\Dokumenty\#Kurs APS NET\RekrutacjaNaStudia\RekrutacjaNaStudia\obj\Debug\net6.0\RekrutacjaNaStudia.csproj.CoreCompileInputs.cache
+C:\Users\mrkan\OneDrive\Dokumenty\#Kurs APS NET\RekrutacjaNaStudia\RekrutacjaNaStudia\obj\Debug\net6.0\RekrutacjaNaStudia.dll
+C:\Users\mrkan\OneDrive\Dokumenty\#Kurs APS NET\RekrutacjaNaStudia\RekrutacjaNaStudia\obj\Debug\net6.0\refint\RekrutacjaNaStudia.dll
+C:\Users\mrkan\OneDrive\Dokumenty\#Kurs APS NET\RekrutacjaNaStudia\RekrutacjaNaStudia\obj\Debug\net6.0\RekrutacjaNaStudia.pdb
+C:\Users\mrkan\OneDrive\Dokumenty\#Kurs APS NET\RekrutacjaNaStudia\RekrutacjaNaStudia\obj\Debug\net6.0\RekrutacjaNaStudia.genruntimeconfig.cache
+C:\Users\mrkan\OneDrive\Dokumenty\#Kurs APS NET\RekrutacjaNaStudia\RekrutacjaNaStudia\obj\Debug\net6.0\ref\RekrutacjaNaStudia.dll
